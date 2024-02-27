@@ -5,6 +5,7 @@ int main()
 {//begin
 	float nJejari, nLuas;
 	cout << "Masukan jejari= ";
-
+	cin >> nJejari;
+	
 
 }
